@@ -1,1 +1,1 @@
-# Praktikum-ASA
+# Praktikum Analisis dan Strategi Algoritma
